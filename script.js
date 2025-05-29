@@ -26,18 +26,18 @@ const subjects = {
     description: 'This subject introduces the concepts of computer networking, protocols, and security fundamentals.',
     projects: [
       {
-        title: 'Packet Sniffer Tool',
-        description: 'Developed a basic packet sniffer to monitor network traffic.',
-        link: '#'
+        title: 'Semi Final',
+        description: 'Activities',
+        link: 'https://www.youtube.com/playlist?list=PLzyDJLW7kmXRDfPgkTZmH6mGt81oZXmWU'
       },
       {
-        title: 'Secure File Transfer',
-        description: 'Implemented secure file transfer using encryption techniques.',
-        link: '#'
+        title: 'Final Networking',
+        description: 'Ub Days Attendance System',
+        link: 'https://www.youtube.com/playlist?list=PLzyDJLW7kmXRDfPgkTZmH6mGt81oZXmWU'
       }
     ],
-    youtube: 'https://www.youtube.com/watch?v=example_netsec',
-    github: 'https://github.com/yourusername/netsec-projects'
+    youtube: 'https://www.youtube.com/playlist?list=PLzyDJLW7kmXRDfPgkTZmH6mGt81oZXmWU',
+    github: 'https://github.com/balabatn/networking'
   },
   cognate: {
     title: 'CpE Cognate/Track Course 1 – CPEP 324',
